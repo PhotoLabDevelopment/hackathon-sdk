@@ -42,3 +42,5 @@ __pycache__/
 *.rice-box.go
 *.pid
 girl.jpg
+java/target
+dependency-reduced-pom.xml
