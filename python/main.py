@@ -52,7 +52,6 @@ for combo_id in [5635874, 3124589]:
                 'flip'      : 0,
                 'crop'      : '0,0,1,1'
             })
-        print(contents)
         result_url = api.photolab_process(template_name, contents)
         i = i + 1
         if i != 0:
